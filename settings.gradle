@@ -1,0 +1,5 @@
+rootProject.name='article'
+include ':app'
+include ':app:core'
+include ':app:share'
+include ':app:network'
